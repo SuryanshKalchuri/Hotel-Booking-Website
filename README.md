@@ -124,3 +124,12 @@ Base URL: `http://localhost:9192`
     * Request Parameters: `userId`, `roleId`
 * **`POST /roles/assign-user-to-role`**: Assign a role to a user (ADMIN only).
     * Request Parameters: `userId`, `roleId`
+
+![CLASS DIAGRAM](Diagram.png)
+
+
+![SEQUENTIL DIAGRAM](SD.png)
+
+
+![ER DIAGRAM](ER.png)
+
